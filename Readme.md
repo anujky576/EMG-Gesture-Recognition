@@ -1,4 +1,4 @@
-# Electromyography (EMG) Gesture Recognition — Comprehensive Technical Documentation
+# Electromyography (EMG) Gesture Recognition — Technical Documentation
 
 ---
 
