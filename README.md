@@ -1,1 +1,0 @@
-# Electromyography-EMG-Gesture-Recognition
